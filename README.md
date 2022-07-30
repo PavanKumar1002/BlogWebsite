@@ -1,2 +1,2 @@
 # BlogWebsite
-     Blogwebsite using reacgt.js and firebase
+     BlogWebsite using reacgt.js and firebase
